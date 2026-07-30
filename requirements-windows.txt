@@ -1,0 +1,5 @@
+# Windows desktop build. Installs the base requirements plus the components
+# needed to run the software in its own native window (not a browser).
+-r requirements.txt
+pywebview>=5.0
+pythonnet>=3.0

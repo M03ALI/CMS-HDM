@@ -1,0 +1,5 @@
+streamlit>=1.31
+pandas>=1.5
+altair>=5.0
+reportlab>=3.6
+pillow>=9.0
